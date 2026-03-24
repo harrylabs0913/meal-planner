@@ -1,0 +1,144 @@
+{
+  "generated_at": "2026-03-25T06:42:59.841150",
+  "people": 3,
+  "budget_per_person": 50,
+  "taste": "light",
+  "menu": [
+    {
+      "day": "周一",
+      "breakfast": "白粥+咸菜",
+      "lunch": "清蒸鱼+米饭",
+      "dinner": "蔬菜沙拉",
+      "daily_cost": 129
+    },
+    {
+      "day": "周二",
+      "breakfast": "豆浆+油条",
+      "lunch": "白切鸡+蔬菜",
+      "dinner": "蒸南瓜+小米粥",
+      "daily_cost": 99
+    },
+    {
+      "day": "周三",
+      "breakfast": "牛奶+面包",
+      "lunch": "番茄炒蛋+米饭",
+      "dinner": "清炒时蔬+米饭",
+      "daily_cost": 90
+    },
+    {
+      "day": "周四",
+      "breakfast": "鸡蛋+玉米",
+      "lunch": "冬瓜汤+馒头",
+      "dinner": "紫菜蛋花汤+馒头",
+      "daily_cost": 60
+    },
+    {
+      "day": "周五",
+      "breakfast": "小米粥+包子",
+      "lunch": "蒸蛋+青菜",
+      "dinner": "凉拌豆腐+粥",
+      "daily_cost": 60
+    },
+    {
+      "day": "周六",
+      "breakfast": "燕麦+水果",
+      "lunch": "豆腐汤+米饭",
+      "dinner": "蒸茄子+米饭",
+      "daily_cost": 90
+    },
+    {
+      "day": "周日",
+      "breakfast": "馄饨",
+      "lunch": "凉拌黄瓜+粥",
+      "dinner": "白灼虾+蔬菜",
+      "daily_cost": 132
+    }
+  ],
+  "shopping_list": {
+    "白粥+咸菜": {
+      "count": 1,
+      "price": 3
+    },
+    "清蒸鱼+米饭": {
+      "count": 1,
+      "price": 25
+    },
+    "蔬菜沙拉": {
+      "count": 1,
+      "price": 15
+    },
+    "豆浆+油条": {
+      "count": 1,
+      "price": 5
+    },
+    "白切鸡+蔬菜": {
+      "count": 1,
+      "price": 20
+    },
+    "蒸南瓜+小米粥": {
+      "count": 1,
+      "price": 8
+    },
+    "牛奶+面包": {
+      "count": 1,
+      "price": 8
+    },
+    "番茄炒蛋+米饭": {
+      "count": 1,
+      "price": 12
+    },
+    "清炒时蔬+米饭": {
+      "count": 1,
+      "price": 10
+    },
+    "鸡蛋+玉米": {
+      "count": 1,
+      "price": 6
+    },
+    "冬瓜汤+馒头": {
+      "count": 1,
+      "price": 8
+    },
+    "紫菜蛋花汤+馒头": {
+      "count": 1,
+      "price": 6
+    },
+    "小米粥+包子": {
+      "count": 1,
+      "price": 5
+    },
+    "蒸蛋+青菜": {
+      "count": 1,
+      "price": 10
+    },
+    "凉拌豆腐+粥": {
+      "count": 1,
+      "price": 5
+    },
+    "燕麦+水果": {
+      "count": 1,
+      "price": 10
+    },
+    "豆腐汤+米饭": {
+      "count": 1,
+      "price": 12
+    },
+    "蒸茄子+米饭": {
+      "count": 1,
+      "price": 8
+    },
+    "馄饨": {
+      "count": 1,
+      "price": 8
+    },
+    "凉拌黄瓜+粥": {
+      "count": 1,
+      "price": 6
+    },
+    "白灼虾+蔬菜": {
+      "count": 1,
+      "price": 30
+    }
+  },
+  "total_cost": 660
+}
