@@ -1,144 +1,144 @@
 {
-  "generated_at": "2026-03-25T06:42:59.841150",
-  "people": 3,
-  "budget_per_person": 50,
-  "taste": "light",
+  "generated_at": "2026-03-25T07:41:26.119115",
+  "people": 2,
+  "budget_per_person": 30,
+  "taste": "spicy",
   "menu": [
     {
       "day": "周一",
-      "breakfast": "白粥+咸菜",
-      "lunch": "清蒸鱼+米饭",
-      "dinner": "蔬菜沙拉",
-      "daily_cost": 129
+      "breakfast": "辣肉面",
+      "lunch": "麻婆豆腐+米饭",
+      "dinner": "麻辣小龙虾",
+      "daily_cost": 148
     },
     {
       "day": "周二",
-      "breakfast": "豆浆+油条",
-      "lunch": "白切鸡+蔬菜",
-      "dinner": "蒸南瓜+小米粥",
-      "daily_cost": 99
+      "breakfast": "麻辣馄饨",
+      "lunch": "辣子鸡+米饭",
+      "dinner": "香辣蟹",
+      "daily_cost": 180
     },
     {
       "day": "周三",
-      "breakfast": "牛奶+面包",
-      "lunch": "番茄炒蛋+米饭",
-      "dinner": "清炒时蔬+米饭",
-      "daily_cost": 90
+      "breakfast": "辣椒炒蛋+馒头",
+      "lunch": "水煮鱼",
+      "dinner": "口水鸡",
+      "daily_cost": 136
     },
     {
       "day": "周四",
-      "breakfast": "鸡蛋+玉米",
-      "lunch": "冬瓜汤+馒头",
-      "dinner": "紫菜蛋花汤+馒头",
-      "daily_cost": 60
+      "breakfast": "酸辣粉",
+      "lunch": "回锅肉+米饭",
+      "dinner": "毛血旺",
+      "daily_cost": 112
     },
     {
       "day": "周五",
-      "breakfast": "小米粥+包子",
-      "lunch": "蒸蛋+青菜",
-      "dinner": "凉拌豆腐+粥",
-      "daily_cost": 60
-    },
-    {
-      "day": "周六",
-      "breakfast": "燕麦+水果",
-      "lunch": "豆腐汤+米饭",
-      "dinner": "蒸茄子+米饭",
+      "breakfast": "香辣包子",
+      "lunch": "麻辣香锅",
+      "dinner": "干锅土豆",
       "daily_cost": 90
     },
     {
+      "day": "周六",
+      "breakfast": "麻辣豆腐脑",
+      "lunch": "香辣虾+米饭",
+      "dinner": "香辣排骨",
+      "daily_cost": 142
+    },
+    {
       "day": "周日",
-      "breakfast": "馄饨",
-      "lunch": "凉拌黄瓜+粥",
-      "dinner": "白灼虾+蔬菜",
-      "daily_cost": 132
+      "breakfast": "红油抄手",
+      "lunch": "剁椒鱼头+米饭",
+      "dinner": "麻辣火锅",
+      "daily_cost": 156
     }
   ],
   "shopping_list": {
-    "白粥+咸菜": {
+    "辣肉面": {
       "count": 1,
-      "price": 3
+      "price": 12
     },
-    "清蒸鱼+米饭": {
+    "麻婆豆腐+米饭": {
       "count": 1,
-      "price": 25
+      "price": 12
     },
-    "蔬菜沙拉": {
+    "麻辣小龙虾": {
       "count": 1,
-      "price": 15
+      "price": 50
     },
-    "豆浆+油条": {
+    "麻辣馄饨": {
       "count": 1,
-      "price": 5
+      "price": 10
     },
-    "白切鸡+蔬菜": {
+    "辣子鸡+米饭": {
       "count": 1,
       "price": 20
     },
-    "蒸南瓜+小米粥": {
+    "香辣蟹": {
+      "count": 1,
+      "price": 60
+    },
+    "辣椒炒蛋+馒头": {
       "count": 1,
       "price": 8
     },
-    "牛奶+面包": {
+    "水煮鱼": {
+      "count": 1,
+      "price": 35
+    },
+    "口水鸡": {
+      "count": 1,
+      "price": 25
+    },
+    "酸辣粉": {
       "count": 1,
       "price": 8
     },
-    "番茄炒蛋+米饭": {
+    "回锅肉+米饭": {
       "count": 1,
-      "price": 12
+      "price": 18
     },
-    "清炒时蔬+米饭": {
-      "count": 1,
-      "price": 10
-    },
-    "鸡蛋+玉米": {
-      "count": 1,
-      "price": 6
-    },
-    "冬瓜汤+馒头": {
-      "count": 1,
-      "price": 8
-    },
-    "紫菜蛋花汤+馒头": {
-      "count": 1,
-      "price": 6
-    },
-    "小米粥+包子": {
-      "count": 1,
-      "price": 5
-    },
-    "蒸蛋+青菜": {
-      "count": 1,
-      "price": 10
-    },
-    "凉拌豆腐+粥": {
-      "count": 1,
-      "price": 5
-    },
-    "燕麦+水果": {
-      "count": 1,
-      "price": 10
-    },
-    "豆腐汤+米饭": {
-      "count": 1,
-      "price": 12
-    },
-    "蒸茄子+米饭": {
-      "count": 1,
-      "price": 8
-    },
-    "馄饨": {
-      "count": 1,
-      "price": 8
-    },
-    "凉拌黄瓜+粥": {
-      "count": 1,
-      "price": 6
-    },
-    "白灼虾+蔬菜": {
+    "毛血旺": {
       "count": 1,
       "price": 30
+    },
+    "香辣包子": {
+      "count": 1,
+      "price": 5
+    },
+    "麻辣香锅": {
+      "count": 1,
+      "price": 25
+    },
+    "干锅土豆": {
+      "count": 1,
+      "price": 15
+    },
+    "麻辣豆腐脑": {
+      "count": 1,
+      "price": 6
+    },
+    "香辣虾+米饭": {
+      "count": 1,
+      "price": 30
+    },
+    "香辣排骨": {
+      "count": 1,
+      "price": 35
+    },
+    "红油抄手": {
+      "count": 1,
+      "price": 10
+    },
+    "剁椒鱼头+米饭": {
+      "count": 1,
+      "price": 28
+    },
+    "麻辣火锅": {
+      "count": 1,
+      "price": 40
     }
   },
-  "total_cost": 660
+  "total_cost": 964
 }
